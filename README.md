@@ -50,22 +50,27 @@ What does this mean to you? Site surveying time and the need for additional visi
 
 ![Time](blank)
 More **TIME** to solve bigger problems.
+
 The entire site can be captured in just one site visit.
 
 ![Accuracy](blank)
 More **ACCURACY** in the models.
+
 Our Laser Scanners are accurate to +/– 2mm over 25m.
 
 ![Money](blank)
 More **MONEY** saved.
+
 We can capture more data with less surveys, which means less cost for the owner.
 
 ![Friendly](blank)
 More **USER FRIENDLY**.
+
 The Point Clouds created are transferable to CAD and BIM software applications.
 
 ![Accessibility](blank)
 More **ACCESSIBILITY** for Clients.
+
 All data is viewable and measurable on our online server application. No secret password or engineering degree needed to decipher what they say.
 
 
@@ -75,8 +80,11 @@ All data is viewable and measurable on our online server application. No secret 
 An online viewing application (similar to Google Street View™), Scanshare allows the user to view and measure 360° images from every scanner location (effectively viewing the site remotely). The application facilitates multi-discipline collaboration between project participants minimizing the necessity for site visits.
 
 Follow the link below for access to sample scans:
+
 [webscan url](url)
+
 username: username
+
 password: password
 
 
